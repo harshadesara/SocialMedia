@@ -9,6 +9,7 @@ from PyQt5.QtGui import *
 import urllib.request
 from functools import partial
 import pandas as pd
+import numpy as np
 
 import csv
 import re
